@@ -1,0 +1,448 @@
+fileFormatVersion: 2
+guid: 1af8ba1c08378634f83f9d01c977a03a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngHouseUnity4_0
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 636
+        width: 447
+        height: 366
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1781605d1e2dcb48802fafdecd0cbd8
+      internalID: -641216897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngHouseUnity4_1
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 614
+        width: 333
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac24cabb6fcb9144adc3eaed8ab252e
+      internalID: 102918370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngHouseUnity4_2
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 723
+        width: 186
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7caf89af953d99442ba0bc6dab2bdc4a
+      internalID: 1681342194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngHouseUnity4_3
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 457
+        width: 76
+        height: 136
+      alignment: 9
+      pivot: {x: 0.7249226, y: 0.826797}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2cec039984f1204bab53f151c56d1c2
+      internalID: -286815570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngHouseUnity4_4
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 409
+        width: 33
+        height: 190
+      alignment: 9
+      pivot: {x: 0.6036044, y: 0.87786734}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa991d22f6702c42905585d72f50a3f
+      internalID: 901683715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngHouseUnity4_5
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 404
+        width: 34
+        height: 190
+      alignment: 9
+      pivot: {x: 0.44972858, y: 0.89586115}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81eb2c6696cd05d44aea226c8b91663b
+      internalID: -2037891107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngHouseUnity4_6
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 569
+        width: 106
+        height: 147
+      alignment: 9
+      pivot: {x: 0.6935183, y: 0.10462796}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b411fd447e7c541863301b20fedb96
+      internalID: 203160628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngHouseUnity4_7
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 410
+        width: 152
+        height: 97
+      alignment: 9
+      pivot: {x: 0.70242923, y: 0.39426383}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfbb00bcc5a40bd48ac3e2aec1623a1a
+      internalID: -332539703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngHouseUnity4_8
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 366
+        width: 154
+        height: 73
+      alignment: 9
+      pivot: {x: 0.67760044, y: 0.1487527}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e748a5068e69b4840866f8bdf28acf63
+      internalID: 1675285777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngHouseUnity4_9
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 173
+        width: 138
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb53de0613b94149bc7179d80ef0ecc
+      internalID: 1997474061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngHouseUnity4_10
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 372
+        width: 104
+        height: 195
+      alignment: 9
+      pivot: {x: 0.5000012, y: 0.41233835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47fe1da7597c6464a809e40f9388903c
+      internalID: -1713369102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngHouseUnity4_11
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 400
+        width: 61
+        height: 139
+      alignment: 9
+      pivot: {x: 0.41593158, y: 0.8320422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3801044239e63046a7f41ce9e40a01a
+      internalID: 1821496298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngHouseUnity4_12
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 223
+        width: 153
+        height: 95
+      alignment: 9
+      pivot: {x: 0.6564159, y: 0.08614518}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218ec3a24f1e09546a3524d3cb960cc4
+      internalID: -686655204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngHouseUnity4_13
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 121
+        width: 303
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a398e234595415141aee6f2f2cb4a238
+      internalID: 297575312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pngHouseUnity4_0: -641216897
+      pngHouseUnity4_1: 102918370
+      pngHouseUnity4_10: -1713369102
+      pngHouseUnity4_11: 1821496298
+      pngHouseUnity4_12: -686655204
+      pngHouseUnity4_13: 297575312
+      pngHouseUnity4_2: 1681342194
+      pngHouseUnity4_3: -286815570
+      pngHouseUnity4_4: 901683715
+      pngHouseUnity4_5: -2037891107
+      pngHouseUnity4_6: 203160628
+      pngHouseUnity4_7: -332539703
+      pngHouseUnity4_8: 1675285777
+      pngHouseUnity4_9: 1997474061
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
